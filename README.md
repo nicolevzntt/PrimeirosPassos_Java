@@ -4,4 +4,6 @@ Esse repositório tem como objetivo exercitar conceitos básicos de desenvolvime
 
 1- Faça um programa que solicite ao usuário um numero e verifique se ele é positivo, negativo ou zero usando uma estrutura if-else.
 
-2- Criando uma calculadora.
+2- Criando uma calculadora (if/else).
+
+3- Melhorando a calculadora (switch case).
